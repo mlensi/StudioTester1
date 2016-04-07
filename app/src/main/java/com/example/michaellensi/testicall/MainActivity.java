@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         TextView tView = (TextView) this.findViewById(R.id.txtvw_HelloWorld);
         tView.setText("HELLOOOOOOO WORLD I AM IN YOU! (v1.0.3)");
         tView.setText("We should be branchin', yeah!");
+        tView.setText("We ARE branching!");
     }
 }
