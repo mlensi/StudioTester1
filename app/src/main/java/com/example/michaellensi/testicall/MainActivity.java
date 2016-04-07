@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         TextView tView = (TextView) this.findViewById(R.id.txtvw_HelloWorld);
         tView.setText("I am about to commit on me new bronch mon.");
+        tView.setText("First change after merge.");
     }
 }
