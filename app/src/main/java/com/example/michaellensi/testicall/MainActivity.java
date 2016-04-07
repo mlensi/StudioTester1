@@ -12,10 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         TextView tView = (TextView) this.findViewById(R.id.txtvw_HelloWorld);
-        tView.setText("HELLOOOOOOO WORLD I AM IN YOU! (v1.0.3)");
-        tView.setText("We should be branchin', yeah!");
-        tView.setText("We ARE branching!");
-        tView.setText("This is an uncommitted change");
-        tView.setText("Just kidding it is committed now.  This one too.");
+        tView.setText("I am about to commit on me new bronch mon.");
     }
 }
