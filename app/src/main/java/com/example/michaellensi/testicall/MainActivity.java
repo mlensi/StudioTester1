@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         tView.setText("We should be branchin', yeah!");
         tView.setText("We ARE branching!");
         tView.setText("This is an uncommitted change");
+        tView.setText("Just kidding it is committed now.  This one too.");
     }
 }
