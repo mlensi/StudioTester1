@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         tView.setText("HELLOOOOOOO WORLD I AM IN YOU! (v1.0.3)");
         tView.setText("We should be branchin', yeah!");
         tView.setText("We ARE branching!");
+        tView.setText("This is an uncommitted change");
     }
 }
